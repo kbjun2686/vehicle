@@ -37,7 +37,7 @@ class vehicle {
         System.out.println("변경된 속도 : "+this.speed);
     }
 
-
+// 테스트중입니다
 }
  class bus extends vehicle{
     public bus(int n){
